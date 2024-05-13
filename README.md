@@ -276,7 +276,8 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-![image](https://github.com/Shobika187/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/94508142/3103ea7e-7b80-4884-a16e-3af5ecd6db64)
+![image](https://github.com/Shobika187/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/94508142/19583969-c4c3-49b7-92b7-9ce6db393b79)
+
 
 
 ## RESULT:
